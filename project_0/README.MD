@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описания проекта]()
-[2. Какой кейс решаем?]()
-[3. Краткая информация о данных]()
-[4. Этапы работы над проектом]()
-[5. Результат]()
-[6. Выводы]()
+[1. Описания проекта](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Результат)
+[6. Выводы](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
