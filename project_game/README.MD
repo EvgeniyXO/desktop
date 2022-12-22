@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описания проекта](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Описание-проекта)
+[1. Описания проекта](https://github.com/EvgeniyXO/desktop/blob/main/project_game/README.MD#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/EvgeniyXO/desktop/blob/main/project_game/README.MD#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/EvgeniyXO/desktop/blob/main/project_game/README.MD#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/EvgeniyXO/desktop/blob/main/project_game/README.MD#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Результат)
+[5. Результат](https://github.com/EvgeniyXO/desktop/blob/main/project_game/README.MD#Результат)
 
-[6. Выводы](https://github.com/EvgeniyXO/desktop/blob/main/project_0/README.MD#Выводы)
+[6. Выводы](https://github.com/EvgeniyXO/desktop/blob/main/project_game/README.MD#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
@@ -27,7 +27,7 @@
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
 **Метрика качества**
-Результаты оцениваются по среднему количеству попыток при 1000 повторений. Главное условие - не более 20 попыток
+Результаты оцениваются по среднему количеству попыток при 1000 повторений. Главное условие - не более 20 попыток.
 
 **Что практикуем**
 Учимся писать хороший код на python
